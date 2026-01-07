@@ -1,51 +1,27 @@
-h1>Secure Network Implementation with DMZ, Firewall, and Trusted Zones: A Practical Implementation</h1>
+h1> Port Security Project Showcase </h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 
-<br>SecureNetworkLab is a virtualized network infrastructure project designed to help organizations expand their IT capabilities within limited space and budget constraints. This lab demonstrates how to deploy scalable, secure systems using virtualization and open-source tools.
+<br>This repository serves as a practical showcase of network design, security strategy, and port security implementation for students, cybersecurity/networking enthusiasts, Help Desk, IT Support, Network Technician IT professionals.
 
-Key features of the implementation include:
+## Key features of the implementation/Environments include:
 
-Virtual Machine Deployments to minimize hardware costs and physical space usage
-
-Scalable Infrastructure that supports seamless upgrades and expansion
-
-Secure Network Segmentation to isolate trusted users from untrusted actors
-
-The completed virtual environment includes:
-
-🌐 Web Server
-
-🔥 Router-Firewall (pfSense)
-
-🖥️ CEO Workstation and Trusted User PC
-
-📡 DNS Server
-
-🛡️ Demilitarized Zone (DMZ)
-
-This repository serves as a practical showcase of secure network design, virtualization strategy, and access control implementation—ideal for IT professionals, students, and cybersecurity enthusiasts.
+- <b>Simulation Software (Cisco Packet Tracer) Deployments to minimize hardware costs and physical space usage</b>
+- <b>Cisco Switch 2960</b>
+- <b>PCs</b>
+- <b>Sever</b>
+- <b>Straigth Through UTP Cables</b>
 <br />
 
-
-<h2>Environments Used </h2>
-
-- <b>Windows 11 (Host OS)</b> (21H2)
-- <b>Virtual Box VM</b>
-- <b>Router-Firewall (pfsense)</b>
-- <b>CEO Workstation (pfsense)</b>
-- <b>Web Server (pfsense)</b>
-- <b>DNS Server (pfsense)</b>
-- <b>Demilitarized Zone (DMZ) (pfsense)</b>
 
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
 Network Diagram: <br/>
-<img src="https://imgur.com/U7HG1gy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OmxLrJq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 IP Structure for the Network:  <br/>
